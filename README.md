@@ -68,5 +68,5 @@ Follow these steps to set up and run the application on your local machine:
 
 ## License
 
-This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
+This project is licensed under the  Apache License. For more information, see the [LICENSE](LICENSE) file.
 ```
