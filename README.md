@@ -70,10 +70,3 @@ Follow these steps to set up and run the application on your local machine:
 
 This project is licensed under the MIT License. For more information, see the [LICENSE](LICENSE) file.
 ```
-
----
-
-### **What's Included in the Submission**
-1. **Inline Comments**: Explain every significant line of code in `app.py`.
-2. **Docstrings**: Provide class and function/module-level explanations for better modularity and understanding.
-3. **README File**: Full documentation with a clear overview, setup instructions, and usage steps.
