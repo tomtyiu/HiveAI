@@ -4,7 +4,7 @@ import sys
 import json
 
 # Initialize the OpenAI client
-client = OpenAI(api_key='sk-proj-spOvf9bDk3E3Z93GguN6T3BlbkFJMeOYxaFeybvc0kgz9n0W')
+client = OpenAI(api_key='OpenAIKey')
 
 def moderation(task_description):
     moderation = client.moderations.create(input=task_description.lower())
