@@ -27,7 +27,7 @@ def perform_web_search(query):
     url = "https://google.serper.dev/search"
     payload = json.dumps({"q": query, "location": "United States"})
     headers = {
-        'X-API-KEY': '62bd386b1b80c1dbef4bc9d773f5981d7f355bf4',
+        'X-API-KEY': '', # serper AI
         'Content-Type': 'application/json'
     }
     response = requests.post(url, headers=headers, data=payload)
